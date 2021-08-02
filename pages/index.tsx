@@ -29,7 +29,7 @@ export default function Home() {
             Hanake#7356
             <a href="https://github.com/Hanake0">
               <span className={styles.logo}>
-                <Image src="/assets/logos/github-120px-dark.png" alt="GitHub logo" width={19} height={19} />
+                <Image src="/assets/logos/github-icon-dark.png" alt="GitHub logo" width={19} height={19} />
               </span>
               Hanake0
             </a>
